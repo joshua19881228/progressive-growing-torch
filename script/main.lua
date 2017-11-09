@@ -40,7 +40,7 @@ g_config = {
             ['use_weightnorm']=false,
             ['use_pixelwise']=true,
             ['use_leakyrelu']=true,
-            ['use_batchnorm']=true,
+            ['use_batchnorm']=false,
             ['use_tanh']=false,
             }
 d_config = {
@@ -56,7 +56,7 @@ d_config = {
             ['use_weightnorm']=false,
             ['use_pixelwise']=true,
             ['use_leakyrelu']=true,
-            ['use_batchnorm']=true,
+            ['use_batchnorm']=false,
 }
 
 config = {
